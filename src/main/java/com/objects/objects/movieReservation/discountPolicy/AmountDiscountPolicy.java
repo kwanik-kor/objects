@@ -7,7 +7,7 @@ import com.objects.objects.movieReservation.discountCondition.DiscountCondition;
 /**
  * 금액 할인 정책
  */
-public class AmountDiscountPolicy extends DiscountPolicy {
+public class AmountDiscountPolicy extends DefaultDiscountPolicy {
     private Money discountAmount;
 
     public AmountDiscountPolicy(Money discountAmount, DiscountCondition... conditions) {
