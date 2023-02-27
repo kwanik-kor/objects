@@ -16,5 +16,5 @@
 
 ---
 ### 📖 Index
-- [X] [Chapter 1. 객체, 설계](https://github.com/kwanik-kor/objects/issues/1)
+- [X] [Chapter 1. 객체, 설계](https://kwanik.tistory.com/36)
 - [X] [Chapter 2. 객치지향 프로그래밍](https://github.com/kwanik-kor/objects/issues/3)
