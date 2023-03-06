@@ -1,4 +1,4 @@
-package com.objects.objects.ticketSeller;
+package com.objects.objects.chapter01.part02;
 
 public class Theater {
     private TicketSeller ticketSeller;
